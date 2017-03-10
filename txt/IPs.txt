@@ -1,0 +1,108 @@
+0
+IP addresses for www.google.com:
+
+IPv6 : 2a00:1450:4009:80f::2004
+IPv4 : 216.58.213.100
+0
+IP addresses for www.facebook.com:
+
+IPv6 : 2a03:2880:f100:183:face:b00c:0:25de
+IPv4 : 157.240.2.35
+0
+IP addresses for www.yahoo.com:
+
+IPv6 : 2a00:1288:110:2::4001
+IPv4 : 46.228.47.114
+IPv4 : 46.228.47.115
+0
+IP addresses for www.youtube.com:
+
+IPv6 : 2a00:1450:4009:80f::200e
+IPv4 : 216.58.213.110
+0
+IP addresses for www.netflix.com:
+
+IPv6 : 2a01:578:3::341e:979f
+IPv6 : 2a01:578:3::341e:a67b
+IPv6 : 2a01:578:3::341f:2de8
+IPv6 : 2a01:578:3::341f:df14
+IPv6 : 2a01:578:3::3430:896
+IPv6 : 2a01:578:3::3430:8195
+IPv6 : 2a01:578:3::3430:944e
+IPv6 : 2a01:578:3::341e:8c23
+IPv4 : 54.76.60.39
+IPv4 : 54.76.83.27
+IPv4 : 54.76.226.73
+IPv4 : 54.77.108.2
+IPv4 : 54.171.226.127
+IPv4 : 54.229.72.205
+IPv4 : 54.229.126.132
+IPv4 : 54.72.216.241
+0
+IP addresses for www.wikipedia.org:
+
+IPv6 : 2620:0:862:ed1a::1
+IPv4 : 91.198.174.192
+0
+IP addresses for www.google.co.in:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.google.co.jp:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.instagram.com:
+
+IPv6 : 2a03:2880:f20b:c4:face:b00c:0:43fe
+IPv4 : 31.13.65.52
+0
+IP addresses for www.linkedin.com:
+
+IPv6 : 2620:109:c007:102::5be1:f881
+IPv4 : 91.225.248.129
+0
+IP addresses for www.google.de:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.google.co.uk:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.google.fr:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.google.ru:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.google.com.br:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.yandex.ru:
+
+IPv6 : 2a02:6b8:a::a
+IPv4 : 5.255.255.55
+IPv4 : 77.88.55.55
+IPv4 : 77.88.55.66
+IPv4 : 5.255.255.5
+0
+IP addresses for www.google.it:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
+0
+IP addresses for www.google.com.hk:
+
+IPv6 : 2a00:1450:4009:80f::2003
+IPv4 : 216.58.213.99
